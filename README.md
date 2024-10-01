@@ -13,3 +13,6 @@ NIM     : 2241720083
 ![alt text](assets/img/praktikum2.jpg)
 
 ### Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
+![alt text](assets/img/praktikum3a.png)
+
+![alt text](images/01.png)
