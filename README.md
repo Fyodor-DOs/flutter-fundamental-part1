@@ -18,7 +18,23 @@ NIM     : 2241720083
 ![alt text](images/01.png)
 
 ### Praktikum 4: Menerapkan Widget Dasar
+#### Text Widget
 ![alt text](assets/img/praktikum4a.png)
 
+#### Image Widget
 ![alt text](assets/img/praktikum4b.png)
 
+### Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
+#### Scaffold Widget
+![alt text](assets/img/praktikum5a.png)
+
+#### Dialog Widget
+![alt text](assets/img/praktikum5b.png)
+
+#### Input dan Selection Widget
+![alt text](assets/img/praktikum5c.png)
+
+#### Date and Time Pickers Widget
+![alt text](assets/img/praktikum5d.png)
+
+![alt text](assets/img/praktkum5e.png)
