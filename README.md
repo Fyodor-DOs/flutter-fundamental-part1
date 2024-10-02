@@ -16,3 +16,9 @@ NIM     : 2241720083
 ![alt text](assets/img/praktikum3a.png)
 
 ![alt text](images/01.png)
+
+### Praktikum 4: Menerapkan Widget Dasar
+![alt text](assets/img/praktikum4a.png)
+
+![alt text](assets/img/praktikum4b.png)
+
