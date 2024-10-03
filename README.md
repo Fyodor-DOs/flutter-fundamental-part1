@@ -38,3 +38,8 @@ NIM     : 2241720083
 ![alt text](assets/img/praktikum5d.png)
 
 ![alt text](assets/img/praktkum5e.png)
+
+### Tugas Praktikum
+Capture hasil akhir tiap praktikum (side-by-side, bisa juga berupa file GIF agar terlihat proses perubahan ketika ada aksi dari pengguna) dengan menampilkan NIM dan Nama Anda sebagai ciri pekerjaan Anda.
+
+![alt text](assets/img/tugas.gif)

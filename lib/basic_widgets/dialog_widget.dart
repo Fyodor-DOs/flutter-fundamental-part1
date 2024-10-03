@@ -1,21 +1,7 @@
 import 'package:flutter/material.dart';
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(
-        body: MyLayout(),
-      ),
-    );
-  }
-}
-
-class MyLayout extends StatelessWidget {
-  const MyLayout({Key? key}) : super(key: key);
-
+class MyDialogWidget extends StatelessWidget {
+  const MyDialogWidget({super.key});
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -38,16 +24,14 @@ showAlertDialog(BuildContext context) {
       Navigator.pop(context);
     },
   );
-
   // set up the AlertDialog
   AlertDialog alert = AlertDialog(
-    title: const Text("My title"),
-    content: const Text("This is my message."),
+    title: const Text("Hi!"),
+    content: const Text("Nama saya Ahmed Fathir Syafaat"),
     actions: [
       okButton,
     ],
   );
-
   // show the dialog
   showDialog(
     context: context,

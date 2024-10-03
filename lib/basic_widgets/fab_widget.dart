@@ -1,19 +1,15 @@
 import 'package:flutter/material.dart';
 
-class MyFabWidget extends StatelessWidget {
-  const MyFabWidget({super.key});
+class MyFABWidget extends StatelessWidget {
+  final VoidCallback onPressed; // Add a callback function
+  const MyFABWidget({Key? key, required this.onPressed}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        floatingActionButton: FloatingActionButton(
-          onPressed: () {
-            // Add your onPressed code here!
-          },
-          backgroundColor: Colors.pink,
-          child: const Icon(Icons.thumb_up),
-        ),
-      ),
+    return FloatingActionButton(
+      onPressed: onPressed, // Use the callback function
+      backgroundColor: Colors.pink,
+      child: const Icon(Icons.thumb_up),
     );
   }
 }
